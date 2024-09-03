@@ -1,0 +1,31 @@
+.hero-section {
+  background-image: url(../pxfuel.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+}
+
+.hero-section>h1 {
+  max-width: 70%;
+  margin-bottom: 0;
+  margin-top: 1%;
+}
+
+
+
+/* 
+.search-bar-container {
+  position: absolute;
+  top: 8%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  box-sizing: border-box;
+} */
